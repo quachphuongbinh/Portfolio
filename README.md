@@ -75,7 +75,7 @@ A comprehensive course (132 h) in quality assurance, covering skills in function
 
 ### Bug reports and work in Jira
 
-- Several bugs found on [ORANGEHRM]([http://creditcalculator.pointschool.ru](https://opensource-demo.orangehrmlive.com/web/index.php/auth/login)) and reported:
+- Several bugs found on [ORANGEHRM](https://opensource-demo.orangehrmlive.com/web/index.php/auth/login) and reported:
   * Bug #1. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1Ypqw992_r6YgXNdqslH1FVW3Y33sT6ip/view?usp=sharing).
   * Bug #2. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/15KB2fIqWO4uIUbAMejk8ZZrkpPfJzz1m/view?usp=sharing).
   * Bug #3. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1Qn_Fe5gwdEQ-f4PKpg115CZaWl3_N705/view?usp=sharing).
