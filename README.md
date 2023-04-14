@@ -35,6 +35,14 @@ __SQL databases__
   * can write complex requests using subqueries
   * familiar with the use of aliases and wildcards
 
+## Tools
+
+__Jira__
+  * know how to create bug reports
+  * able to create projects and track their progress
+__Mind maps & diagrams__
+  * know how to design beautifully simple mind maps
+
 ## Courses
 
 __Robot Framework Test Automation, Levels 1-4__  
