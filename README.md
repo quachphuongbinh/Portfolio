@@ -40,6 +40,8 @@ __SQL databases__
 __Jira__
   * know how to create bug reports
   * able to create projects and track their progress
+
+
 __Mind maps & diagrams__
   * know how to design beautifully simple mind maps
 
