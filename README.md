@@ -24,11 +24,6 @@ __Test analysis & design__
   * familiar with functional decomposition of products, creating state transition diagrams, writing use cases
   * can apply equivalence partitioning, boundary value analysis and methods of pairwise testing to generate test input data
 
-__API testing__
-  * know the difference between SOAP and REST APIs
-  * gained experience through manual testing of APIs created for educational purposes
-  * know how to manipulate requests and create test cases using the SoapUI tool
-
 __Exploratory testing__
   * capable of using Whittaker’s test tours and creating cheat-lists for testing web applications
 
@@ -39,12 +34,6 @@ __Test documentation__
 __SQL databases__
   * can write complex requests using subqueries
   * familiar with the use of aliases and wildcards
-  * know the difference between joins and unions and can use them in queries
-
-__Python fundamentals__
-  * can write simple functions and algorithms
-  * know when to use for and while
-  * able to comprehend easy codes
 
 ## Courses
 
