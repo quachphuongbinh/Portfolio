@@ -62,7 +62,7 @@ A comprehensive course (132 h) in quality assurance, covering skills in function
 
 ### Test cases and work
 
-- [Student Management](https://drive.google.com/file/d/1ORT-LLXFwpMQqyRqqniwpVbf1l7CWn92/view?usp=sharing) was used to create demo test cases
+- [Student Manager](https://drive.google.com/file/d/1ORT-LLXFwpMQqyRqqniwpVbf1l7CWn92/view?usp=sharing) test cases
   * Test case for checking the Login screen (in English). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1cz6PzzVyuq9dNE7RGKdAgLAgR0cu9Bz5/edit?usp=sharing&ouid=108409828149713322198&rtpof=true&sd=true)
 
 
