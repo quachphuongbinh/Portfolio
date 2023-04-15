@@ -60,16 +60,11 @@ A comprehensive course (132 h) in quality assurance, covering skills in function
 
 ## Examples of my work
 
-### Test cases and work in TestRail
+### Test cases and work
 
-- [The training webshop](http://automationpractice.com/) was used to create demo test cases
-  * Test case for checking the checkout process (in English). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1NpgiyQr2mx2YKddbXOFi7YygWE_jUve3spzscLkpTuY/edit?usp=sharing)
-  * Test case for checking the addition of items to the cart (in English). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1PTc-aPCKWBm4B3aaTPsvJ5wgW0P-KkpvaclZAbQzTZY/edit#gid=0)
+- [Student Management](https://drive.google.com/file/d/1ORT-LLXFwpMQqyRqqniwpVbf1l7CWn92/view?usp=sharing) was used to create demo test cases
+  * Test case for checking the Login screen (in English). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1cz6PzzVyuq9dNE7RGKdAgLAgR0cu9Bz5/edit?usp=sharing&ouid=108409828149713322198&rtpof=true&sd=true)
 
-- [The training webpage Enotes](https://enotes.pointschool.ruin) was used for working with TestRail.
-  * Test case (in Russian) for authorisation. Check [the screenshot from TestRail here](https://drive.google.com/file/d/1X9q5h3NKLI7NZpoU-gaHwSrYq_KQtDsl/view?usp=sharing).
-  * Test case (in Russian) for adding an item to the cart. See [the screenshot from TestRail here](https://drive.google.com/file/d/1L74DBG62BRnl45WuVYsuR3RoYU4KZHrI/view?usp=sharing).
-  * Test suits and a test run for the cart. See [the screenshots from TestRail here](https://drive.google.com/file/d/1imQyEHdDE9FCWtnnPZurh0J9QMTWrS3l/view?usp=sharing).
 
 
 ### Bug reports and work in Jira
