@@ -71,3 +71,8 @@ Tutorial certificate on how to use and report bugs on Jira.
   * Bug #1. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1mJ7usmdfgoEqqki2EqO2QeSoMb0RRsSC/view?usp=sharing).
   * Bug #2. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1L7qgll8ujwQ1RCS2Ci9l_7IwrDsAPGNw/view?usp=sharing).
   * Bug #3. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1da6XVb8Xgo_570AnQGGHxU0Rv8wIWgzc/view?usp=sharing).
+
+### Mindmaps and diagrams
+* Web application testing. Check [the mindmap](https://drive.google.com/file/d/10wP4I5XHN1vkr8uaX4MoI6K_P0A8vemC/view?usp=sharing).
+* Mobile application testing. Check [the mindmap](https://drive.google.com/file/d/19KmMxxSIGeFH1ba6h0BXBmrHwmpQhfAR/view?usp=sharing).
+* Sign up screen. Check [the mindmap](https://drive.google.com/file/d/1GY8MKnjhLd9Taq_HYtlHSrEHZcldI9l7/view?usp=sharing).
