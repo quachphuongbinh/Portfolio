@@ -51,8 +51,8 @@ Pending certificates will be added later
 
 __Jira Fundamentals Badge__  
 *online course by ATLASSIAN UNIVERSITY*  
-Tutorial certificate on how to use and report bugs on Jira
-.
+Tutorial certificate on how to use and report bugs on Jira.
+
 [Link to the certificate](https://university.atlassian.com/student/award/jV6fu6C9ibYwRMyPm1x8S4Ce)
 
 ## Examples of my work
