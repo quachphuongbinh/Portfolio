@@ -47,11 +47,10 @@ __Mind maps & diagrams__
 
 ## Courses
 
-__Robot Framework Test Automation, Levels 1-4__  
-*online courses by [Bryan Lamb](https://www.udemy.com/user/bryanl/), Udemy*  
-An intensive course in test automation with Robot Framework.  
-[Link to the certificate of the Level 1](https://www.udemy.com/certificate/UC-93938fbe-c686-47ee-b33a-8ac6701ff2b7/)  
-*Level 2-4 in progress*
+__Fresher Tester__  
+*online courses by Hoang Lien Son, TESTINGVN*  
+An intensive course in Manual Testing.  
+[Link to the certificate](https://www.udemy.com/certificate/UC-93938fbe-c686-47ee-b33a-8ac6701ff2b7/)
 
 __The 1st Online Institute of Software Testing__  
 *online course by Quality Lab, Moscow, Russia*  
