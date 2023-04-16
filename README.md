@@ -24,9 +24,6 @@ __Test analysis & design__
   * familiar with functional decomposition of products, creating state transition diagrams, writing use cases
   * can apply equivalence partitioning, boundary value analysis and methods of pairwise testing to generate test input data
 
-__Exploratory testing__
-  * capable of using Whittaker’s test tours and creating cheat-lists for testing web applications
-
 __Test documentation__
   * can create test cases and checklists and know how and in which situations to use them effectively
   * able to prepare comprehensive bug reports and provide detailed session reports
@@ -50,12 +47,12 @@ __Mind maps & diagrams__
 __Fresher Tester__  
 *online courses by Hoang Lien Son, TESTINGVN*  
 An intensive course in Manual Testing.  
-[Link to the certificate](https://www.udemy.com/certificate/UC-93938fbe-c686-47ee-b33a-8ac6701ff2b7/)
+Pending certificates will be added later
 
-__The 1st Online Institute of Software Testing__  
-*online course by Quality Lab, Moscow, Russia*  
-A comprehensive course (132 h) in quality assurance, covering skills in functional testing and test automation.   
-[Link to the certificate](https://quality-lab.ru/school-center/certificate.php?id=22655&lang=en)
+__Jira Fundamentals Badge__  
+*online course by ATLASSIAN UNIVERSITY*  
+Tutorial certificate on how to use and report bugs on Jira.
+[Link to the certificate](https://university.atlassian.com/student/award/jV6fu6C9ibYwRMyPm1x8S4Ce)
 
 ## Examples of my work
 
