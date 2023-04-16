@@ -1,5 +1,5 @@
 # Portfolio
-Portfolio Fresher Tester
+Fresher Tester
 
 ## About me
 
