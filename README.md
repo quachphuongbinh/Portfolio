@@ -58,8 +58,8 @@ Tutorial certificate on how to use and report bugs on Jira.
 ## Examples of my work
 
 ### Test IO
-Ranking
-Bug sudmmitted, Bug reproductions and Users stories
+- Ranking.
+- Bug sudmmitted, Bug reproductions and Users stories
 ### Test cases and work
 
 - [Student Manager](https://drive.google.com/file/d/1ORT-LLXFwpMQqyRqqniwpVbf1l7CWn92/view?usp=sharing) test cases
