@@ -58,7 +58,7 @@ Tutorial certificate on how to use and report bugs on Jira.
 ## Examples of my work
 
 ### Test IO
-- Ranking. Check [the screen shot of rank in Test IO](https://drive.google.com/file/d/1MLoo54jaWzg9uOEpfRlTYremuMZj0MR8/view?usp=share_link)
+- Ranking 476/1600 ( 193pts). Check [the screen shot of rank in Test IO](https://drive.google.com/file/d/1MLoo54jaWzg9uOEpfRlTYremuMZj0MR8/view?usp=share_link)
 - Bug sudmmitted, Bug reproductions and Users stories. Check [the screenshot in Test IO](https://drive.google.com/file/d/1w-aYbsojnnptaddzBWkxXsu92m9cFQr3/view?usp=share_link).
 ### Test cases and work
 
